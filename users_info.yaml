@@ -1,0 +1,14 @@
+myc:
+  username: myc
+  true_name: myc
+  role: Admin
+  password: ad3ae7665ea59f20b61a6307a5e07b5cdeac26900ecad43b16cec4324b8098b1
+  email: abc@xyz.com
+  phone_number: '1234567890'
+xhl:
+  username: xhl
+  true_name: xhl
+  role: Requester
+  password: 91e656ba6a6e8d34b552bb0530ac1505705eca66573a41258469b46f9c70005c
+  email: abc@xyz.com
+  phone_number: '1234567890'
